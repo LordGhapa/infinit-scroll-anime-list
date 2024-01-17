@@ -11,9 +11,10 @@ function Hero() {
           height={96}
           className="object-contain"
         />
-        <h1 className="text-5xl font-bold leading-[120%] text-white sm:text-6xl lg:max-w-lg">
-          Explore The <span className="red-gradient">Diversos Reinos</span> de
-          Magia dos Animes
+        <h1 className="flex flex-col text-5xl font-bold leading-[120%] text-white sm:text-6xl lg:max-w-lg">
+          Explore
+          <span className="red-gradient">Diversos Reinos</span> de Magia dos
+          Animes
         </h1>
       </div>
       <div className="relative h-[50vh] w-full justify-center lg:flex-1">
